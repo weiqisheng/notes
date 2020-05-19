@@ -1,3 +1,4 @@
 site_name: My Docs
+repo_url: https://github.com/weiqisheng/notes
 theme:
   name: material
